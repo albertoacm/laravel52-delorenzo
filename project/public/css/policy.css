@@ -1,0 +1,7 @@
+.policy h1, .policy h2, .policy h3 {color: #fbb800; font-weight: bold; padding-top: 10px;}
+.policy h1 {font-size: 22px;}
+.policy h2 {font-size: 18px;}
+.policy h3 {font-size: 16px; color: #fbb800; text-decoration: underline}
+.policy p {font-size: 14px; line-height: 18px; padding-bottom: 10px; text-align: justify;}
+.policy .light {color: #fbb800;; font-weight: bold;}
+.policy a {color: #fbb800;; text-decoration: underline;}

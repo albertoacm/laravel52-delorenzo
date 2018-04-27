@@ -1,0 +1,37 @@
+#cookiesdirective {
+	background-color: #FFF;
+	border-top: 2px solid #3c4544;
+	text-align: center;
+	font-size: 14px;
+	line-height: 18px;
+}
+
+#cookiesdirective input {
+	display: inline-block;
+	position: relative;
+	padding: .7em 1.6em;
+	font-size: 1em;
+	line-height: 1.2;
+	border: 0;
+	outline: 0;
+	background: #fff;
+	border: 2px solid #3c4544;
+	color: #3c4544;
+	text-shadow: none;
+	border-radius: 4px;
+	cursor: pointer;
+}
+
+#cookiesdirective input:hover {
+	background: #3c4544;
+	border: 2px solid #3c4544;
+	color: #fff;
+}
+
+#cookiesdirective a:link, #cookiesdirective a:visited {
+	color: #A12728;
+}
+
+#cookiesdirective a:hover, #cookiesdirective a:active{
+	text-decoration: underline;
+}

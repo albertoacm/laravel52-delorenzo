@@ -11,6 +11,13 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
+
+Route::get('/{locale?}', "IndexController@index");
+
+// Route::get('/', function () {
+//     return view('index');
+// });
+
+Route::get('/projects', function () {
+    return view('projects');
 });
